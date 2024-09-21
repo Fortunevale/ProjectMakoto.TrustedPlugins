@@ -1,0 +1,11 @@
+{
+  "Name": "Translation Commands",
+  "Description": "Allows users to automatically translate messages using LibreTranslate or Google!",
+  "Version": {
+    "Major": 1,
+    "Minor": 0,
+    "Patch": 0
+  },
+  "Author": "Mira",
+  "AuthorId": 411950662662881290
+}

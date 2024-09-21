@@ -1,0 +1,11 @@
+{
+  "Name": "ScoreSaber Commands",
+  "Description": "This plugin adds integration for the ScoreSaber API.",
+  "Version": {
+    "Major": 1,
+    "Minor": 0,
+    "Patch": 0
+  },
+  "Author": "Mira",
+  "AuthorId": 411950662662881290
+}

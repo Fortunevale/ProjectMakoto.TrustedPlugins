@@ -1,0 +1,11 @@
+{
+  "Name": "Music Commands",
+  "Description": "This plugin provides music functionality for Makoto.",
+  "Version": {
+    "Major": 1,
+    "Minor": 0,
+    "Patch": 0
+  },
+  "Author": "Mira",
+  "AuthorId": 411950662662881290
+}
