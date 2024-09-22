@@ -1,0 +1,11 @@
+{
+  "Name": "AbuseIPDB Lookup",
+  "Description": "Looks up Urls sent in chat and sends their rating if suspicious. ",
+  "Version": {
+    "Major": 1,
+    "Minor": 0,
+    "Patch": 0
+  },
+  "Author": "Mira",
+  "AuthorId": 411950662662881290
+}
