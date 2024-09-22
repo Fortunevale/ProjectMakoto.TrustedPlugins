@@ -1,0 +1,11 @@
+{
+  "Name": "Social Commands",
+  "Description": "Allows you to run social commands like /hug, /slap, etc.",
+  "Version": {
+    "Major": 1,
+    "Minor": 0,
+    "Patch": 0
+  },
+  "Author": "Mira",
+  "AuthorId": 411950662662881290
+}
